@@ -1,0 +1,31 @@
+{
+  "name": "zulkoplo",
+  "version": "1.0.1",
+  "description": "zul memang koplo",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vydha/zulkoplo"
+  },
+  "keywords": [
+    "zul",
+    "koplo"
+  ],
+  "author": "Vydha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vydha/zulkoplo/issues"
+  },
+  "homepage": "https://github.com/Vydha/zulkoplo#readme",
+  "dependencies": {
+    "cubitt":"^1.0.3",
+    "salaks":"^1.0.0",
+    "pemilu":"^1.0.0",
+    "guessdc":"^1.0.0",
+    "aijio":"^1.0.1",
+    "matchax":"^1.0.1"
+  }
+}
